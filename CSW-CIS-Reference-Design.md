@@ -87,7 +87,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -663,22 +663,22 @@ CIS Controls v8.1 maps cleanly to:
 
 - **NIST SP 800-53 Rev 5** — CIS publishes an official 800-53
   mapping; many CIS Safeguards correspond to specific 800-53
-  controls. See [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md).
+  controls. See [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md).
 - **NIST CSF 2.0** — CIS Safeguards are commonly cited as
   Informative References under CSF subcategories. See
-  [CSF runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-CSF-2/CSW-CSF-Technical-Runbook.md).
+  [CSF runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-CSF-2/CSW-CSF-Technical-Runbook.md).
 - **CMMC 2.0 (Level 2)** — both inherit heavily from NIST
   800-171 / 800-53. See
-  [CMMC runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/CMMC-2/CSW-CMMC-Technical-Runbook.md).
+  [CMMC runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/CMMC-2/CSW-CMMC-Technical-Runbook.md).
 - **PCI DSS v4.0** — many Reqs (1, 2, 7, 10, 11) align directly
   with CIS Controls 4, 6, 8, 13. See
-  [PCI runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md).
+  [PCI runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md).
 - **ISO/IEC 27001:2022** — Annex A controls have substantial
   overlap with CIS Safeguards. See
-  [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md).
+  [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md).
 
 
-- **UK NCSC CAF v3.2** — Controls 1, 2, 4, 7, and 13 are the reuse path for CAF A3, B4, B5, and C1 (see [CAF crosswalk](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/UK-NCSC-CAF/caf-mapping.md)).
+- **UK NCSC CAF v3.2** — Controls 1, 2, 4, 7, and 13 are the reuse path for CAF A3, B4, B5, and C1 (see [CAF crosswalk](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/UK-NCSC-CAF/caf-mapping.md)).
 
 ---
 
@@ -716,4 +716,4 @@ being relied upon in a formal compliance engagement.
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
